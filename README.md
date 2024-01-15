@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TakudzwanasheSamuel
+- 👋 Hi, I’m @Takudzwanashe S Mahachi
 - 👀 I’m interested in Computer Science and Software Development and WebDesign & Development
 - 🌱 I’m currently studying Data Science & Informatics
 - 💞️ I’m looking to collaborate on everything on Computer Science and Software Development and WebDesign & Development

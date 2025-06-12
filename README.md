@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a data scientist with a knack for programming and tech. Here’s a quick look at my projects:<br><br>Projects<br>Student Records Management System: PHP app for managing student records with pagination and CRUD operations.<br>Restaurant Reservation System: Open-source PHP project for restaurant bookings, set up with XAMPP.<br>Attendance Management System: PHP project for tracking attendance, consolidated into a single page.<br>Healthcare App: Final year project for booking doctor appointments remotely, incorporating data science.<br>Doctor-Patient Appointment System: School project for streamlining doctor-patient appointments.<br>Computer Vision Project: R-based work on computer vision history and applications.<br>React Project: Collaborative React project with friends.<br>Skills<br>Languages: PHP, Python, R, JavaScript<br>Frameworks: CodeIgniter, React<br>Tools: XAMPP, Jupyter Notebook, Replit
+👋 Hi, I'm Takudzwanashe
+I'm a passionate data scientist and software developer from Zimbabwe focused on building innovative, real-world solutions that create social impact. My work spans across HealthTech, FinTech, AgriTech, and sustainability—developing projects like smart biometric systems, biodegradable packaging, and AI-powered platforms for underserved communities. I'm constantly exploring the intersection of technology and community empowerment, with a strong interest in machine learning, innovation prototyping, and sustainable development.
 
 
 ## 🌐 Socials:
